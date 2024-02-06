@@ -27,7 +27,7 @@ Estas instrucciones te ayudarán a obtener una copia del proyecto en funcionamie
     ```
 4.  Ejecuta la aplicación:
     ```
-    java -cp target/AREP-TALLER2-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.app.MovieInfoServer
+    java -cp target/AREP-TALLER2-1.0-SNAPSHOT.jar edu.escuelaing.arep.MovieInfoServer
     ```
 5. Abre un navegador web y accede a la aplicación en http://localhost:35000/client.html.
 ## Ejecutando las pruebas
